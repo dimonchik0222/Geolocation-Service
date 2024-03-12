@@ -1,20 +1,23 @@
 {
-  "name": "geolocationservice", 
-  "version": "1.0.0", 
-  "description": "Geolocation Service", 
+  "name": "geolocationservice",
+  "version": "1.0.1",
+  "description": "Geolocation Service",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dimonchik0222/Geolocation-Service.git" 
+    "url": "https://github.com/dimonchik0222/Geolocation-Service.git"
   },
-  "keywords": [ 
-    "galo", 
+  "keywords": [
+    "galo",
     "location",
     "papichlox"
   ],
-  "author": "dimonchik0222 ", 
-  "license": "MIT"
+  "author": "dimonchik0222 ",
+  "license": "MIT",
+  "dependencies": {
+    "geolocationservice": "^1.0.0"
+  }
 }
