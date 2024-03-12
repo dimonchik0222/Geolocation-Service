@@ -1,0 +1,20 @@
+{
+  "name": "geolocationservice", 
+  "version": "1.0.0", 
+  "description": "Geolocation Service", 
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dimonchik0222/Geolocation-Service.git" 
+  },
+  "keywords": [ 
+    "galo", 
+    "location",
+    "papichlox"
+  ],
+  "author": "dimonchik0222 ", 
+  "license": "MIT"
+}
